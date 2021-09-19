@@ -21,4 +21,4 @@ A python program that takes a text file/text file path as an argument and counts
 # Example Output
 ![Example Output](https://i.ibb.co/yh6wWWH/example.png)
 
-<sup>Originally requested by u/micmic0000 (https://www.reddit.com/r/programmingrequests/comments/pr0r0a/requesting_to_create_a_program_in_python_to_count/)</sup>
+<sup>Originally requested by u/micmic0000 https://www.reddit.com/r/programmingrequests/comments/pr0r0a/requesting_to_create_a_program_in_python_to_count/</sup>
