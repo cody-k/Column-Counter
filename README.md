@@ -1,6 +1,7 @@
 # Column Counter
 ### This program requires that Numpy be installed. 
 A python program that takes a text file/text file path as an argument and counts the number of unique numbers in each column using '-' as a delimiter. <br>
+As of now, it currently can only take 6 numbers per row, as this was requested to specifically allow only 6, however it can easily be modified to allow for any number of numbers.
 
 
 ## Run the python script in command prompt i.e: <br> 
